@@ -1,3 +1,4 @@
+!pip install joblib
 import streamlit as st
 from PIL import Image
 from joblib import load
